@@ -11,6 +11,7 @@ che gestisce l’accesso al database ed esegue l’algoritmo di clustering.
 Il progetto è stato realizzato in una forma base ed una con estensione:
 
 <ol>
+  
   <li>
     <h2>Progetto Base</h2>
     Il progetto base implementa le funzionalità fondamentali del sistema.
